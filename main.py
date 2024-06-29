@@ -19,6 +19,7 @@ option=st.selectbox(
 movies['title'].values)
 
 if st.button("recommend"):
+    st.write("boom 💥💥💥")
     recomd=rec(option)
     for i in recomd:
         st.write(i)
