@@ -13,13 +13,13 @@ def rec(movie):
 movies_list = pickle.load(open('moviess.pkl','rb'))
 movies=pd.DataFrame(movies_list)
 similarity=pickle.load(open('simi.pkl','rb'))
-st.title("Movie reco system")
+st.title("Movie reco system📽️🍿")
 option=st.selectbox(
 "",
 movies['title'].values)
 
 if st.button("recommend"):
-    st.write("boom 💥💥💥")
+    st.write("boom 💥💥💥:")
     recomd=rec(option)
     for i in recomd:
         st.write(i)
