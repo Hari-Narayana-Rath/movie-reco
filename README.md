@@ -23,3 +23,6 @@ The dataset used in this project is the **TMDb 5000 Movie Dataset**. It contains
 - **NLTK** (Natural Language Processing)
 
 
+# Made with ❤️ by RAJ 
+# (Solely for academic or research purposes, please pull the repo for learning instead of stealing and deploying it.)
+
