@@ -3,6 +3,7 @@
 ## Overview
 This project is a **Movie Recommendation System** using the **TMDb dataset**. It suggests movies based on similarity metrics derived from features like genres, keywords, and cast.
 
+Can check the project live at - https://movie-reco-by-raj.streamlit.app/
 ## Features
 - Uses **Natural Language Processing (NLP)** for feature extraction.
 - Implements **content-based filtering** to recommend similar movies.
